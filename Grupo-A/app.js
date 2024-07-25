@@ -1,9 +1,21 @@
+<<<<<<< HEAD
 // Grupo # 5
 // Bryan Velez ALvarez
 // Jostin Moreira Zambrano
 // Ronny Pilay Anchundia
 // Gabriel Alonzo Alonzo
 // David Mendoza Castillo
+=======
+// Grupo #
+// Milton Angamarca
+
+//Grupo 3
+//Alava GResely Taylor
+//Chavez Zambrano Aisha
+//Delgado MEza Neysser
+//Holguin Chavez leo
+
+>>>>>>> dbcce460b921d78065909d9a9d92594159adb07f
 const express = require("express");
 const app = express();
 const port = 3000;
