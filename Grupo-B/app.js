@@ -1,5 +1,9 @@
-// Grupo #
-// Milton Angamarca
+// Grupo 1
+// Cristopher Anchundia
+// Evelyn Faubla
+// Abigail Vera
+// Johan Gonzalez
+// Cesar Alcivar
 
 const express = require('express');
 const app = express();
