@@ -1,4 +1,4 @@
-// Grupo #
+// Grupo #6
 // Milton Angamarca
 // FELIX MUÑOZ MIRANDA
 // REYES VINCES JEREMY
